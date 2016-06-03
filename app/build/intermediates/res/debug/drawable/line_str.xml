@@ -1,0 +1,26 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This is the main color -->
+    <item>
+        <shape>
+            <size android:height="2dp"/>
+            <solid android:color="@color/green" />
+            <padding
+                android:left="5dp"
+                android:top="5dp"
+                android:right="5dp"
+                android:bottom="5dp"    >
+            </padding>
+            <corners
+                android:radius="15dp"   >
+            </corners>
+        </shape>
+    </item>
+    <!-- This is the line -->
+    <item android:top="5dp">
+        <shape>
+            <size android:height="1dp"/>
+            <solid android:color="@color/green" />
+        </shape>
+    </item>
+
+</layer-list><!-- From: file:/E:/Android%20Studio%20Projects/MyFBMessanger/app/src/main/res/drawable/line_str.xml -->

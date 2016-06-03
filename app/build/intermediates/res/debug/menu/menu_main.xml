@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:myapp="http://schemas.android.com/tools">
+    />
+
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="101"
+        android:title="LogOut" />
+
+</menu>
+<!-- From: file:/E:/Android%20Studio%20Projects/MyFBMessanger/app/src/main/res/menu/menu_main.xml -->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#FFFFE6</color>
+    <color name="home_background">#000000</color>
+    <color name="text_color">#FFFAF0</color>
+    <color name="loginBackgroundColor">#DAA520</color>
+    <color name="exam_page_background_color">#F7F8F8</color>
+    <color name="black">#ff000000</color>
+    <color name="black_transparent_dark">#86000000</color>
+    <color name="black_transparent_light">#46000000</color>
+    <color name="orange">#FFFAA51C</color>
+    <color name="gray">#FF616161</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_transparent">#66FFFFFF</color>
+    <color name="gray_font">#FF6A6A6A</color>
+    <color name="gray_filter_background">#D3D3D3</color>
+    <color name="profile_image_color">#D3D3D3</color>
+    <color name="apricot">#FDE4BA</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="very_light_gray">#FFf9f9f9</color>
+    <color name="font_shadow_gray">#FFDEDEDE</color>
+    <color name="green">#009900</color>
+    <color name="border_gray">#e7e7e7</color>
+    <color name="red">#B80000</color>
+
+    <color name="textColor">#FFF</color>
+    <color name="textFieldColor">#000</color>
+    <color name="textShadow">#FFF</color>
+    <color name="listViewBg">#DADFEE</color>
+
+    <color name="sendLightColor">#8897BF</color>
+    <color name="sendMeduimColor">#5D6CA5</color>
+    <color name="sendDarkColor">#515F9F</color>
+
+    <color name="barDarkColor">#CECECE</color>
+    <color name="barMeduimColor">#DFDEE0</color>
+    <color name="barLightColor">#F2F2F2</color>
+</resources>

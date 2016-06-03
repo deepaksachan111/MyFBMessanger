@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+
+   <!-- <RelativeLayout
+
+        android:id="@+id/relative1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/green">
+
+<ImageButton
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/ib"
+    android:src="@drawable/abc_ic_go_search_api_mtrl_alpha"/>
+
+
+
+        <TextView
+            android:layout_toRightOf="@+id/ib"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="All OnLine FriendLists"
+            android:textSize="30dp" />
+
+
+    </RelativeLayout>-->
+
+    <LinearLayout
+        android:id="@+id/linearonline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ListView
+            android:id="@+id/listuseronline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+
+    </LinearLayout>
+    </LinearLayout>
+<!-- From: file:/E:/Android%20Studio%20Projects/MyFBMessanger/app/src/main/res/layout/activity_main.xml -->

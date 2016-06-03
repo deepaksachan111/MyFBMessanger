@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:background="@drawable/shaperectangle"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@color/green">
+        <TextView
+            android:textSize="20dp"
+            android:textColor="@color/red"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome to"/>
+
+        <TextView
+            android:layout_marginLeft="30dp"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:typeface="sans"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:text=" MyMessanger"/>
+
+    </LinearLayout>
+        <com.facebook.login.widget.LoginButton
+            android:layout_marginRight="5dp"
+
+            android:id="@+id/login_button"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp" />
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:padding="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_menu_myplaces"/>
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create an account"
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
+        <TextView
+
+            android:id="@+id/txtsinup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+android:gravity="right"
+            android:background="@drawable/line_str"
+            android:text="Sign In"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:fontFamily="Roboto-Regular"
+            android:textSize="20dp"
+            />
+
+        </LinearLayout>
+
+  <LinearLayout
+      android:orientation="vertical"
+      android:padding="20dp"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content">
+      <EditText
+          android:hint="Email"
+          android:id="@+id/edit_email"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:padding="5dip"
+          android:textSize="25dp"
+          android:background="@drawable/edittext_shape" />
+      <EditText
+          android:hint="pass"
+          android:layout_marginTop="20dp"
+          android:textSize="25dp"
+          android:id="@+id/edit_userpass"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:padding="5dip"
+          android:background="@drawable/edittext_shape" />
+      <EditText
+          android:hint="confirmpass"
+          android:layout_marginTop="20dp"
+          android:textSize="25dp"
+          android:id="@+id/edit_userconfirmpass"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:padding="5dip"
+          android:background="@drawable/edittext_shape" />
+  </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+
+            android:textSize="30dp"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:background="@drawable/shaperectangle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create account"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
+
+</LinearLayout>
+
+

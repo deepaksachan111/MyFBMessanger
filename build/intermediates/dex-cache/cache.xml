@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b0fb927b680e244106145d6ecc59e4ae21c7e5d">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\classes-3bfeba87ce2e00966d1e159ca05ca05f5f27abca.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\classes-f7f532b51616b6b442c77d7e67575e716ec920e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\deepak sachan\AppData\Local\Android\sdk3\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-bf9c4a0ac9bd67c03915fcbbd2916ed16107798f.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\classes-822d92138e179e1a6ba4fb17674efdd42d0721bb.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\MyFBMessanger\app\libs\ormlite-android-4.45.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8ff8c21e8d0162333559f35cafd6a2238a33e5ba">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\ormlite-android-4.45-0c200a605adc1c909eb7555999d586ffc42d7ae8.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-4f3c57565c137f2c2b799ea235ee2514830b4985.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\MyFBMessanger\app\libs\ormlite-core-4.45.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3db7b73aecea723803e10b068777cf09ed42d4be">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\ormlite-core-4.45-198c14e5884232b52d6424e53272d356a4e61e5e.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\MyFBMessanger\app\libs\asmack-android-16.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29012e220c67fb5edb174e493df1beccc6b34dc5">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\asmack-android-16-d88e07811c9ddb04717430233567202bb2465306.jar" />
+    </item>
+    <item
+        jar="C:\Users\deepak sachan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-0d97d6d2f6638e20f9a31ade0424e67e69164506.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\classes-9d8e5c188416008ce6dad597a58eae24790095be.jar" />
+    </item>
+    <item
+        jar="C:\Users\deepak sachan\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.7\69d90fd7fb70e54746e26c10454c220e40a775ce\otto-1.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="E:\Android Studio Projects\MyFBMessanger\app\build\intermediates\pre-dexed\debug\otto-1.3.7-94d0141d8be80d1f1f3c9ff85eb611a350e2eaac.jar" />
+    </item>
+
+</items>

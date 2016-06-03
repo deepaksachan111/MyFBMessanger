@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-0d97d6d2f6638e20f9a31ade0424e67e69164506.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-bf9c4a0ac9bd67c03915fcbbd2916ed16107798f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/ormlite-android-4.45-0c200a605adc1c909eb7555999d586ffc42d7ae8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-3bfeba87ce2e00966d1e159ca05ca05f5f27abca.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-822d92138e179e1a6ba4fb17674efdd42d0721bb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/otto-1.3.7-94d0141d8be80d1f1f3c9ff85eb611a350e2eaac.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9d8e5c188416008ce6dad597a58eae24790095be.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/ormlite-core-4.45-198c14e5884232b52d6424e53272d356a4e61e5e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-4f3c57565c137f2c2b799ea235ee2514830b4985.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/asmack-android-16-d88e07811c9ddb04717430233567202bb2465306.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-f7f532b51616b6b442c77d7e67575e716ec920e7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
